@@ -1,0 +1,20 @@
+{
+  "name": "Георгий Богачев",
+  "email": "urraanator@gmail.com",
+  "github": "https://github.com/uranator",
+  "roles": [
+    {
+      "title": "Python Developer (Junior)",
+      "skills": ["Python", "FastAPI", "Django", "PostgreSQL", "SQL", "Docker", "Git", "Linux", "REST API", "Pytest", "ООП", "Алгоритмы", "Асинхронное программирование"]
+    },
+    {
+      "title": "AI Engineer",
+      "skills": ["Python", "LLM", "RAG", "AI Agents", "MCP", "Prompt Engineering", "Tool Calling", "Ollama", "OpenRouter", "LangChain", "FastAPI", "Docker", "Git", "Linux", "PostgreSQL", "REST API"]
+    },
+    {
+      "title": "DevOps / Infrastructure",
+      "skills": ["Linux", "Docker", "CI/CD", "Bash", "Python", "Git", "Ansible", "Terraform", "Nginx", "PostgreSQL", "Мониторинг", "Prometheus", "Grafana"]
+    }
+  ],
+  "summary": "Инженер-автоматизатор с опытом построения AI-агентов (Hermes), MCP-серверов и сетевой инфраструктуры на OpenWrt. Настраиваю обходы DPI (Zapret/Sing-box), прокси (Xray/VLESS) и мониторинг (AdGuard, Prometheus). Пишу на Python, автоматизирую через Playwright, контейнеризирую в Docker."
+}
